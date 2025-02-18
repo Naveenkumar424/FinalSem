@@ -1,0 +1,47 @@
+Module 1:Introduction-
+    What is Artificial Intelligence, 
+    Foundations of AI, 
+    AI - Past, Present and Future. 
+    Intelligent Agents- Environments- Specifying the task environment, 
+    Properties of task environments, 
+    Agent based programs- Structure of Agents, Types of agents-Simple reflex agents, Model-based reflex agents, Goal-based agents; and Utility-based agents.
+
+Module 2:Problem Solving by Searching-
+    Problem-Solving Agents, 
+    Well-defined problems and solutions, 
+    examples Problems, 
+    Searching for Solutions, 
+    Uninformed Search Strategies-Breadth-first search, 
+    Uniform-cost search, 
+    Depth-first search, 
+    Depth-limited search, 
+    Iterative deepening depth-first search, 
+    Bi directional search
+
+
+Module 3:Knowledge Representation- 
+    Knowledge-Based Agents, 
+    The Wumpus World, 
+    Logic, Propositional Logic, 
+    Propositional Theorem Proving, 
+    Effective Propositional Model Checking, 
+    Agents Based on Propositional Logic, 
+    First-Order Logic-Syntax and Semantics of First-Order Logic, 
+    Using First-Order Logic, 
+    Unification and Lifting Forward Chaining, Backward Chaining.
+
+
+Module 4:Learning– 
+    Forms of Learning, 
+    Supervised Learning- Artificial Neural Networks (ANN), Support Vector Machines (SVM), 
+    Unsupervised Learning: Clustering, Association. 
+    Advantages and disadvantages of Unsupervised Learning, 
+    Hill Climbing Algorithm
+
+
+Module 5:Applications of AI- 
+    Natural Language Processing, 
+    Text Classification and Information Retrieval, 
+    Speech Recognition, 
+    Image processing and computer vision, 
+    Robotics.

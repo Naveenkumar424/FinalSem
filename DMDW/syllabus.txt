@@ -1,0 +1,47 @@
+Module 1:Data Mining: 
+    Introduction, 
+    Data Mining Definitions, 
+    Knowledge Discovery in Databases (KDD) Vs. Data Mining, 
+    DBMS Vs. Data Mining, 
+    Data Mining techniques, 
+    Problems, 
+    Issues and Challenges in DM, 
+    DM Applications.
+
+
+Module 2:Mining Frequent Patterns: 
+    Basic Concept 
+    – Frequent Item Set Mining Methods 
+    –Apriori and Frequent Pattern Growth (FP-Growth) algorithms 
+    - Mining Association Rules.
+
+
+Module 3:Classification:
+    Basic Concepts, 
+    Issues, And Algorithms: Decision Tree Induction. 
+    Bayes Classification Methods, 
+    Rule-Based Classification, 
+    Lazy Learners (or Learning from your Neighbours), 
+    k-Nearest Neighbour, 
+    Prediction, 
+    Accuracy-Precision and Recall.
+
+
+Module 4:Clustering: 
+    Cluster Analysis, 
+    Partitioning Methods, 
+    Hierarchical Methods, 
+    Density-Based Methods, 
+    Grid-Based Methods, 
+    Evaluation of Clustering.
+
+
+Module 5:Data Warehouse: 
+    Data Warehouse basic concepts, 
+    Data Warehouse Modeling, 
+    Data Cube and OLAP : 
+        Characteristics of OLAP systems, 
+        Multidimensional view and Data cube, 
+        Data Cube Implementations, 
+        Data Cube operations, 
+        Implementation of OLAP and overview on OLAP Software.
