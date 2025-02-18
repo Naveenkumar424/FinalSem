@@ -1,0 +1,42 @@
+Module 1:Android OS design and Features: 
+    Android development framework, 
+    SDK features, 
+    Installing and running applications on Android Studio, 
+    Creating AVDs, 
+    Types of Android applications, 
+    Best practices in Android programming, 
+    Android tools, 
+    Building your First Android application.
+
+
+Module 2:Android Application Design Essentials: 
+    Anatomy of an Android applications, 
+    Android terminologies, 
+    Application Context, 
+    Activities, 
+    Services, 
+    Intents, Receiving and Broadcasting Intents, 
+    Android Manifest File and its common settings, 
+    Using Intent Filter, Permissions.
+
+
+Module 3:Android User Interface Design Essentials: 
+    User Interface Screen elements, 
+    Designing User Interfaces with Layouts, 
+    Drawing and Working with Animation.
+
+
+Module 4:Testing Android applications, 
+    Publishing Android application, 
+    Using Android preferences, 
+    Managing Application resources in a hierarchy, 
+    working with different types of resources.
+
+
+Module 5:Using Common Android APIs: 
+    Using Android Data and Storage APIs, 
+    Managing data Using Sqlite, 
+    Sharing Data between Applications with Content Providers, 
+    Using Android Networking APIs, 
+    Using Android WebAPIs, 
+    Deploying Android Application to the World.
