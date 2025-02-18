@@ -1,21 +1,71 @@
-Module 1:
-Introduction to PHP: Introduction to PHP, History and Features, Installation & Configuration of PHP, Embedding PHP code in Web Pages, HTML and Whitespaces, Writing Comments, Sending Data to the Web Browser, Data types, Keywords, Using Variables, Constants, Expressions, Operators.
+Module 1:Introduction to PHP: 
+    Introduction to PHP, 
+    History and Features, 
+    Installation & Configuration of PHP, 
+    Embedding PHP code in Web Pages, 
+    HTML and Whitespaces, 
+    Writing Comments, 
+    Sending Data to the Web Browser, 
+    Data types, 
+    Keywords, 
+    Using Variables, Constants, Expressions, Operators.
 
 
-Module 2:
-Programming with PHP: Conditional statements: if, if-else, switch, The ? Operator, looping statements: while Loop, do-while Loop, for Loop.
-Arrays in PHP: Introduction- What is Array?, Creating Arrays, Accessing Array elements, Types of Arrays: Indexed v/s Associative arrays, Multidimensional arrays, Creating Array, Accessing Array, Manipulating Arrays, Displaying array, Using Array Functions, Including and Requiring Files- use of Include() and Require(), Implicit and Explicit Casting in PHP.
+Module 2:Programming with PHP: 
+    Conditional statements: if, if-else, switch, The ? Operator, 
+    looping statements: while Loop, do-while Loop, for Loop.
+    Arrays in PHP: Introduction- 
+        What is Array?, 
+        Creating Arrays, 
+        Accessing Array elements, 
+        Types of Arrays: Indexed v/s Associative arrays, 
+        Multidimensional arrays, 
+        Creating Array, 
+        Accessing Array, 
+        Manipulating Arrays, 
+        Displaying array, 
+        Using Array Functions, 
+        Including and Requiring Files- use of Include() and Require(), 
+        Implicit and Explicit Casting in PHP.
 
 
-Module 3:
-Using Functions, Class- Objects, Forms in PHP: Functions in PHP, Function definition, Creating and invoking user-defined functions, Formal parameters versus Actual Parameters, Function and variable scope, Recursion, Library functions, Date and Time Functions.
-Strings in PHP: What is String?, Creating and Declaring String, String Functions.
+Module 3:Using Functions, 
+    Class- Objects, 
+    Forms in PHP: 
+        Functions in PHP, 
+        Function definition, 
+        Creating and invoking user-defined functions, 
+        Formal parameters versus Actual Parameters, 
+        Function and variable scope, 
+        Recursion, 
+        Library functions, 
+        Date and Time Functions.
+    Strings in PHP: 
+        What is String?, 
+        Creating and Declaring String, 
+        String Functions.
 
 
-Module 4:
-Class & Objects in PHP: What is Class & Object, Creating and accessing a Class & Object, Object properties, object methods, Overloading, inheritance, Constructor and Destructor.
-Form Handling: Creating HTML Form, Handling HTML Form data in PHP
+Module 4:Class & Objects in PHP: 
+        What is Class & Object, 
+        Creating and accessing a Class & Object, 
+        Object properties, 
+        object methods, 
+        Overloading, 
+        inheritance, 
+        Constructor and Destructor.
+    Form Handling: 
+        Creating HTML Form, 
+        Handling HTML Form data in PHP
 
 
-Module 5:
-Database handling using PHP with MySQL: Introduction to MySQL: Database terms, Data Types, Using MySQL Client and Using phpMyAdmin, MySQL Commands, PHP MySQL Functions, Connecting to MySQL and Selecting the Database, Executing Simple Queries, Retrieving Query Results.
+Module 5:Database handling using PHP with MySQL: 
+    Introduction to MySQL: 
+        Database terms, 
+        Data Types, 
+        Using MySQL Client and Using phpMyAdmin, 
+        MySQL Commands, 
+        PHP MySQL Functions, 
+        Connecting to MySQL and Selecting the Database, 
+        Executing Simple Queries, 
+        Retrieving Query Results.
