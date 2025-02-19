@@ -1,0 +1,2 @@
+Data Mining Definitions:
+    Data mining is the process of extracting information from a large set of data.
